@@ -1,6 +1,6 @@
 {
-    "name": "sbdf",
-    "short_name": "sbdf",
+    "name": "vocabulary",
+    "short_name": "vocabulary",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
